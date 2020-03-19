@@ -1,7 +1,7 @@
 # The Android App Market on Google Play
  I'm making analysis for apps market in Google Play
 
-#Analysis Aspects
+## Analysis Aspects
 1. Exploring App Categories
 2. App Price and Size
 3. Category and Price Analysis
